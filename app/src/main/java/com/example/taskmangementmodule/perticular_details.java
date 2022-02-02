@@ -79,7 +79,7 @@ public class perticular_details extends AppCompatActivity implements PopupMenu.O
             }
         });
 //...................................................................................................................
-
+//
 
         comment_open = findViewById(R.id.txtcomment);
         comment_open.setOnClickListener(new View.OnClickListener() {
