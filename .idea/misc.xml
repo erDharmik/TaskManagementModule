@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/TaskMangementModule/app/src/main/res/drawable/circle.xml" value="0.2703125" />
+        <entry key="..\:/Android/TaskMangementModule/app/src/main/res/layout/activity_add_user.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/TaskMangementModule/app/src/main/res/layout/activity_dashboard.xml" value="0.264" />
+        <entry key="..\:/Android/TaskMangementModule/app/src/main/res/layout/activity_perticular_details.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/TaskMangementModule/app/src/main/res/layout/dashbord_raw.xml" value="0.4" />
+        <entry key="..\:/Android/TaskMangementModule/app/src/main/res/layout/drapdownforprogress.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/TaskMangementModule/app/src/main/res/layout/dropdown_list_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/TaskMangementModule/app/src/main/res/layout/perticular_details.xml" value="0.264" />
+        <entry key="..\:/TaskMangementModule/app/src/main/res/drawable/background.xml" value="0.2703125" />
+        <entry key="..\:/TaskMangementModule/app/src/main/res/drawable/bg.xml" value="0.2703125" />
+        <entry key="..\:/TaskMangementModule/app/src/main/res/drawable/btn.xml" value="0.2703125" />
+        <entry key="..\:/TaskMangementModule/app/src/main/res/layout/activity_add_task.xml" value="0.25416666666666665" />
+        <entry key="..\:/TaskMangementModule/app/src/main/res/layout/activity_add_user.xml" value="0.25416666666666665" />
+        <entry key="..\:/TaskMangementModule/app/src/main/res/layout/activity_dashboard.xml" value="0.264" />
+        <entry key="..\:/TaskMangementModule/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/TaskMangementModule/app/src/main/res/layout/activity_newproject.xml" value="0.25416666666666665" />
+        <entry key="..\:/TaskMangementModule/app/src/main/res/layout/activity_perticular_details.xml" value="0.25416666666666665" />
+        <entry key="..\:/TaskMangementModule/app/src/main/res/layout/activity_second.xml" value="0.11614583333333334" />
+        <entry key="..\:/TaskMangementModule/app/src/main/res/layout/activity_view_project.xml" value="0.25416666666666665" />
+        <entry key="..\:/TaskMangementModule/app/src/main/res/layout/dashbord_raw.xml" value="0.536" />
+        <entry key="..\:/TaskMangementModule/app/src/main/res/layout/dropdown_list_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/TaskMangementModule/app/src/main/res/layout/perticular_details.xml" value="0.264" />
+        <entry key="..\:/TaskMangementModule/app/src/main/res/layout/view_project_list.xml" value="0.5442105263157895" />
+        <entry key="..\:/Users/DhARMIK/Desktop/TaskMangementModule1/app/src/main/res/layout/activity_add_task.xml" value="0.1" />
+        <entry key="..\:/Users/DhARMIK/Desktop/TaskMangementModule1/app/src/main/res/layout/activity_dashboard.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/DhARMIK/Desktop/TaskMangementModule1/app/src/main/res/layout/addtask_raw.xml" value="0.264" />
+        <entry key="..\:/Users/DhARMIK/Desktop/TaskMangementModule1/app/src/main/res/layout/dashbord_raw.xml" value="0.4" />
+        <entry key="..\:/Users/dell/Desktop/TaskMangementModule/app/src/main/res/drawable/add.xml" value="0.1962962962962963" />
+        <entry key="..\:/Users/dell/Desktop/TaskMangementModule/app/src/main/res/drawable/background.xml" value="0.1962962962962963" />
+        <entry key="..\:/Users/dell/Desktop/TaskMangementModule/app/src/main/res/drawable/btn.xml" value="0.1962962962962963" />
+        <entry key="..\:/Users/dell/Desktop/TaskMangementModule/app/src/main/res/drawable/circle.xml" value="0.1962962962962963" />
+        <entry key="..\:/Users/dell/Desktop/TaskMangementModule/app/src/main/res/drawable/dashboard.xml" value="0.20092592592592592" />
+        <entry key="..\:/Users/dell/Desktop/TaskMangementModule/app/src/main/res/drawable/ic_info.xml" value="0.15034722222222222" />
+        <entry key="..\:/Users/dell/Desktop/TaskMangementModule/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1962962962962963" />
+        <entry key="..\:/Users/dell/Desktop/TaskMangementModule/app/src/main/res/drawable/leader.xml" value="0.1962962962962963" />
+        <entry key="..\:/Users/dell/Desktop/TaskMangementModule/app/src/main/res/drawable/member.xml" value="0.1962962962962963" />
+        <entry key="..\:/Users/dell/Desktop/TaskMangementModule/app/src/main/res/drawable/task.xml" value="0.1962962962962963" />
+        <entry key="..\:/Users/dell/Desktop/TaskMangementModule/app/src/main/res/drawable/user_add.xml" value="0.1962962962962963" />
+        <entry key="..\:/Users/dell/Desktop/TaskMangementModule/app/src/main/res/drawable/view.xml" value="0.1962962962962963" />
+        <entry key="..\:/Users/dell/Desktop/TaskMangementModule/app/src/main/res/layout/activity_add_branch.xml" value="0.13958333333333334" />
+        <entry key="..\:/Users/dell/Desktop/TaskMangementModule/app/src/main/res/layout/activity_add_new_branch.xml" value="0.13958333333333334" />
+        <entry key="..\:/Users/dell/Desktop/TaskMangementModule/app/src/main/res/layout/activity_add_task.xml" value="0.18" />
+        <entry key="..\:/Users/dell/Desktop/TaskMangementModule/app/src/main/res/layout/activity_add_user.xml" value="0.14" />
+        <entry key="..\:/Users/dell/Desktop/TaskMangementModule/app/src/main/res/layout/activity_addnewcollege.xml" value="0.13958333333333334" />
+        <entry key="..\:/Users/dell/Desktop/TaskMangementModule/app/src/main/res/layout/activity_chat.xml" value="0.12291666666666666" />
+        <entry key="..\:/Users/dell/Desktop/TaskMangementModule/app/src/main/res/layout/activity_dashboard.xml" value="0.209375" />
+        <entry key="..\:/Users/dell/Desktop/TaskMangementModule/app/src/main/res/layout/activity_login.xml" value="0.13958333333333334" />
+        <entry key="..\:/Users/dell/Desktop/TaskMangementModule/app/src/main/res/layout/activity_main.xml" value="0.14" />
+        <entry key="..\:/Users/dell/Desktop/TaskMangementModule/app/src/main/res/layout/activity_newp.xml" value="0.13958333333333334" />
+        <entry key="..\:/Users/dell/Desktop/TaskMangementModule/app/src/main/res/layout/activity_newproject.xml" value="0.15" />
+        <entry key="..\:/Users/dell/Desktop/TaskMangementModule/app/src/main/res/layout/activity_particular_branch.xml" value="0.13958333333333334" />
+        <entry key="..\:/Users/dell/Desktop/TaskMangementModule/app/src/main/res/layout/activity_particular_college.xml" value="0.13958333333333334" />
+        <entry key="..\:/Users/dell/Desktop/TaskMangementModule/app/src/main/res/layout/activity_perticular_details.xml" value="0.209375" />
+        <entry key="..\:/Users/dell/Desktop/TaskMangementModule/app/src/main/res/layout/activity_second.xml" value="0.209375" />
+        <entry key="..\:/Users/dell/Desktop/TaskMangementModule/app/src/main/res/layout/activity_start.xml" value="0.13958333333333334" />
+        <entry key="..\:/Users/dell/Desktop/TaskMangementModule/app/src/main/res/layout/activity_updatebranch.xml" value="0.18" />
+        <entry key="..\:/Users/dell/Desktop/TaskMangementModule/app/src/main/res/layout/activity_updateclginfo.xml" value="0.13958333333333334" />
+        <entry key="..\:/Users/dell/Desktop/TaskMangementModule/app/src/main/res/layout/activity_updateproject.xml" value="0.13958333333333334" />
+        <entry key="..\:/Users/dell/Desktop/TaskMangementModule/app/src/main/res/layout/activity_updateuser.xml" value="0.13958333333333334" />
+        <entry key="..\:/Users/dell/Desktop/TaskMangementModule/app/src/main/res/layout/activity_user_info.xml" value="0.13958333333333334" />
+        <entry key="..\:/Users/dell/Desktop/TaskMangementModule/app/src/main/res/layout/activity_view_project.xml" value="0.14" />
+        <entry key="..\:/Users/dell/Desktop/TaskMangementModule/app/src/main/res/layout/activity_viewbranch.xml" value="0.13958333333333334" />
+        <entry key="..\:/Users/dell/Desktop/TaskMangementModule/app/src/main/res/layout/activity_viewcollage.xml" value="0.13958333333333334" />
+        <entry key="..\:/Users/dell/Desktop/TaskMangementModule/app/src/main/res/layout/activity_viewcollege.xml" value="0.13958333333333334" />
+        <entry key="..\:/Users/dell/Desktop/TaskMangementModule/app/src/main/res/layout/activity_viewdatamanager.xml" value="0.13958333333333334" />
+        <entry key="..\:/Users/dell/Desktop/TaskMangementModule/app/src/main/res/layout/activity_viewuser.xml" value="0.25" />
+        <entry key="..\:/Users/dell/Desktop/TaskMangementModule/app/src/main/res/layout/addtask_raw.xml" value="0.209375" />
+        <entry key="..\:/Users/dell/Desktop/TaskMangementModule/app/src/main/res/layout/comment_raw.xml" value="0.22" />
+        <entry key="..\:/Users/dell/Desktop/TaskMangementModule/app/src/main/res/layout/dashbord_raw.xml" value="0.209375" />
+        <entry key="..\:/Users/dell/Desktop/TaskMangementModule/app/src/main/res/layout/drapdownforprogress.xml" value="0.209375" />
+        <entry key="..\:/Users/dell/Desktop/TaskMangementModule/app/src/main/res/layout/dropdown_list_item.xml" value="0.209375" />
+        <entry key="..\:/Users/dell/Desktop/TaskMangementModule/app/src/main/res/layout/particular_branch.xml" value="0.13958333333333334" />
+        <entry key="..\:/Users/dell/Desktop/TaskMangementModule/app/src/main/res/layout/particular_college.xml" value="0.13958333333333334" />
+        <entry key="..\:/Users/dell/Desktop/TaskMangementModule/app/src/main/res/layout/perticular_details.xml" value="0.14" />
+        <entry key="..\:/Users/dell/Desktop/TaskMangementModule/app/src/main/res/layout/user_info.xml" value="0.13958333333333334" />
+        <entry key="..\:/Users/dell/Desktop/TaskMangementModule/app/src/main/res/layout/view_branch_list.xml" value="0.13958333333333334" />
+        <entry key="..\:/Users/dell/Desktop/TaskMangementModule/app/src/main/res/layout/view_college_list.xml" value="0.13" />
+        <entry key="..\:/Users/dell/Desktop/TaskMangementModule/app/src/main/res/layout/view_project_list.xml" value="0.16" />
+        <entry key="..\:/Users/dell/Desktop/TaskMangementModule/app/src/main/res/layout/viewuser_row.xml" value="0.17" />
+        <entry key="..\:/final/TaskMangementModule/app/src/main/res/drawable/ic_down.xml" value="0.18020833333333333" />
+        <entry key="..\:/final/TaskMangementModule/app/src/main/res/drawable/ic_send.xml" value="0.18020833333333333" />
+        <entry key="..\:/final/TaskMangementModule/app/src/main/res/drawable/ic_up.xml" value="0.18020833333333333" />
+        <entry key="..\:/final/TaskMangementModule/app/src/main/res/layout/achieved_list.xml" value="0.16944444444444445" />
+        <entry key="..\:/final/TaskMangementModule/app/src/main/res/layout/activity.xml" value="0.16944444444444445" />
+        <entry key="..\:/final/TaskMangementModule/app/src/main/res/layout/activity_achieved_project.xml" value="0.16944444444444445" />
+        <entry key="..\:/final/TaskMangementModule/app/src/main/res/layout/activity_add_new_branch.xml" value="0.16944444444444445" />
+        <entry key="..\:/final/TaskMangementModule/app/src/main/res/layout/activity_add_task.xml" value="0.16944444444444445" />
+        <entry key="..\:/final/TaskMangementModule/app/src/main/res/layout/activity_add_user.xml" value="0.16944444444444445" />
+        <entry key="..\:/final/TaskMangementModule/app/src/main/res/layout/activity_addnewcollege.xml" value="0.16944444444444445" />
+        <entry key="..\:/final/TaskMangementModule/app/src/main/res/layout/activity_chat.xml" value="0.16944444444444445" />
+        <entry key="..\:/final/TaskMangementModule/app/src/main/res/layout/activity_done_chat.xml" value="0.16944444444444445" />
+        <entry key="..\:/final/TaskMangementModule/app/src/main/res/layout/activity_done_project_chat.xml" value="0.176" />
+        <entry key="..\:/final/TaskMangementModule/app/src/main/res/layout/activity_login.xml" value="0.16944444444444445" />
+        <entry key="..\:/final/TaskMangementModule/app/src/main/res/layout/activity_main.xml" value="0.16944444444444445" />
+        <entry key="..\:/final/TaskMangementModule/app/src/main/res/layout/activity_newp.xml" value="0.16944444444444445" />
+        <entry key="..\:/final/TaskMangementModule/app/src/main/res/layout/activity_newproject.xml" value="0.16944444444444445" />
+        <entry key="..\:/final/TaskMangementModule/app/src/main/res/layout/activity_particular_achieved_project.xml" value="0.2" />
+        <entry key="..\:/final/TaskMangementModule/app/src/main/res/layout/activity_particular_branch.xml" value="0.16944444444444445" />
+        <entry key="..\:/final/TaskMangementModule/app/src/main/res/layout/activity_pdf_retrive.xml" value="0.16944444444444445" />
+        <entry key="..\:/final/TaskMangementModule/app/src/main/res/layout/activity_perticular_details.xml" value="0.16944444444444445" />
+        <entry key="..\:/final/TaskMangementModule/app/src/main/res/layout/activity_updatebranch.xml" value="0.16944444444444445" />
+        <entry key="..\:/final/TaskMangementModule/app/src/main/res/layout/activity_updateproject.xml" value="0.16944444444444445" />
+        <entry key="..\:/final/TaskMangementModule/app/src/main/res/layout/activity_upload_document.xml" value="0.16944444444444445" />
+        <entry key="..\:/final/TaskMangementModule/app/src/main/res/layout/activity_upload_image.xml" value="0.16944444444444445" />
+        <entry key="..\:/final/TaskMangementModule/app/src/main/res/layout/activity_uploadfile.xml" value="0.16944444444444445" />
+        <entry key="..\:/final/TaskMangementModule/app/src/main/res/layout/activity_viewbranch.xml" value="0.16944444444444445" />
+        <entry key="..\:/final/TaskMangementModule/app/src/main/res/layout/activity_viewcollege.xml" value="0.16944444444444445" />
+        <entry key="..\:/final/TaskMangementModule/app/src/main/res/layout/activity_viewdatamanager.xml" value="0.16944444444444445" />
+        <entry key="..\:/final/TaskMangementModule/app/src/main/res/layout/addtask_raw.xml" value="0.16944444444444445" />
+        <entry key="..\:/final/TaskMangementModule/app/src/main/res/layout/comment_raw.xml" value="0.264" />
+        <entry key="..\:/final/TaskMangementModule/app/src/main/res/layout/dashbord_raw.xml" value="0.16944444444444445" />
+        <entry key="..\:/final/TaskMangementModule/app/src/main/res/layout/imageview_raw.xml" value="0.264" />
+        <entry key="..\:/final/TaskMangementModule/app/src/main/res/layout/particular_branch.xml" value="0.16944444444444445" />
+        <entry key="..\:/final/TaskMangementModule/app/src/main/res/layout/particular_college.xml" value="0.16944444444444445" />
+        <entry key="..\:/final/TaskMangementModule/app/src/main/res/layout/pdfdownloadraw.xml" value="0.3910761154855643" />
+        <entry key="..\:/final/TaskMangementModule/app/src/main/res/layout/perticular_details.xml" value="0.16944444444444445" />
+        <entry key="..\:/final/TaskMangementModule/app/src/main/res/layout/user_info.xml" value="0.16944444444444445" />
+        <entry key="..\:/final/TaskMangementModule/app/src/main/res/layout/view_branch_list.xml" value="0.16944444444444445" />
+        <entry key="..\:/final/TaskMangementModule/app/src/main/res/layout/view_college_list.xml" value="0.16944444444444445" />
+        <entry key="..\:/final/TaskMangementModule/app/src/main/res/layout/view_project_list.xml" value="0.16944444444444445" />
+        <entry key="..\:/final/TaskMangementModule/app/src/main/res/layout/viewuser_row.xml" value="0.16944444444444445" />
+        <entry key="..\:/final/TaskMangementModule/app/src/main/res/menu/attachement_menu.xml" value="0.16944444444444445" />
+        <entry key="..\:/final/TaskMangementModule/app/src/main/res/menu/attechemenu.xml" value="0.16944444444444445" />
+        <entry key="..\:/final/TaskMangementModule/app/src/main/res/menu/perticular_menu.xml" value="0.16944444444444445" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
