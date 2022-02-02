@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.taskmangementmodule">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+        <uses-permission android:name="android.permission.MANAGE_EXTERNAL_STORAGE"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:requestLegacyExternalStorage="true"
+        android:theme="@style/Theme.TaskMangementModule"
+        android:usesCleartextTraffic="true">
+
+
+        <activity
+            android:name=".pdfRetrive"
+            android:exported="true" />
+        <activity
+
+            android:name=".DoneProjectChat"
+            android:exported="true" />
+        <activity
+            android:name=".particularAchievedProject"
+            android:exported="true" />
+        <activity
+            android:name=".AchievedProject"
+            android:exported="true" />
+        <activity
+            android:name=".uploadDocument"
+            android:exported="true" />
+        <activity
+            android:name=".uploadImage"
+            android:exported="true" />
+        <activity
+            android:name=".chat"
+            android:exported="false" />
+        <activity
+            android:name=".updateproject"
+            android:exported="false" />
+        <activity
+            android:name=".updateuser"
+            android:exported="false" />
+        <activity
+            android:name=".user_info"
+            android:exported="false" />
+        <activity
+            android:name=".updatebranch"
+            android:exported="false" />
+        <activity
+            android:name=".particular_branch"
+            android:exported="false" />
+        <activity
+            android:name=".updateclginfo"
+            android:exported="false" />
+        <activity
+            android:name=".particular_college"
+            android:exported="false" />
+        <activity
+            android:name=".viewdatamanager"
+            android:exported="false" />
+        <activity
+            android:name=".viewuser"
+            android:exported="false" />
+        <activity
+            android:name=".viewbranch"
+            android:exported="false" />
+        <activity
+            android:name=".viewcollege"
+            android:exported="false" />
+        <activity
+            android:name=".newproject"
+            android:exported="false" />
+        <activity
+            android:name=".AddNewBranch"
+            android:exported="false" />
+        <activity
+            android:name=".Addnewcollege"
+            android:exported="false" />
+        <activity
+            android:name=".SecondActivity"
+            android:exported="true" />
+        <activity
+            android:name=".perticular_details"
+            android:exported="true" />
+        <activity
+            android:name=".addUser"
+            android:exported="true" />
+        <activity
+            android:name=".addTask"
+            android:exported="true" />
+        <activity
+            android:name=".viewProjectTable"
+            android:exported="true" />
+        <activity
+            android:name=".dashboard"
+            android:exported="true" />
+        <activity
+            android:name=".newp"
+            android:exported="true" />
+        <activity
+            android:name=".LoginActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".StartActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

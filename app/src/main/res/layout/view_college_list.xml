@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingVertical="2dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:id="@+id/cardclick"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/college_id"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_marginLeft="10dp"
+            android:gravity="center"
+            android:background="@drawable/circle"
+            android:layout_gravity="left"
+            android:layout_marginTop="40dp"/>
+
+        <ImageView
+            android:id="@+id/college_info_btn"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_gravity="right"
+            android:layout_marginRight="18dp"
+            android:layout_marginTop="50dp"
+            android:src="@drawable/ic_info"/>
+
+        <TextView
+            android:id="@+id/college_description"
+            android:layout_width="380dp"
+            android:textSize="18dp"
+            android:gravity="left"
+            android:layout_marginBottom="40dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="45dp"
+            android:layout_marginStart="10dp"
+            android:layout_gravity="left"
+            android:text="Project Description"/>
+
+        <TextView
+            android:id="@+id/college_name"
+            android:layout_width="380dp"
+            android:gravity="left"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="#228B22"
+            android:layout_marginStart="10dp"
+            android:text="Project Title"
+            android:layout_gravity="left"
+            android:layout_marginTop="10dp"/>
+        <TextView
+            android:id="@+id/college_code"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="15dp"
+            android:layout_gravity="bottom"
+            android:layout_marginBottom="10dp"
+            android:text="code"
+            android:layout_marginLeft="265dp"
+            android:textColor="@color/teal_700"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView10"
+            android:layout_gravity="bottom"
+            android:layout_marginBottom="10dp"
+            android:textSize="15dp"
+            android:text="Code :"
+            android:layout_marginLeft="220dp"/>
+
+    </androidx.cardview.widget.CardView>
+</androidx.appcompat.widget.LinearLayoutCompat>

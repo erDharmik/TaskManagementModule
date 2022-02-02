@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingVertical="2dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cardclick"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:id="@+id/id"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:id="@+id/textView10"
+            android:textSize="15dp"
+            android:text="Due Date :"
+            android:layout_marginBottom="5dp"
+            android:layout_marginLeft="190dp"/>
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_gravity="bottom"
+            android:id="@+id/aid"
+            android:textSize="15dp"
+            android:text="Due :"
+            android:layout_marginLeft="260dp"
+            android:layout_marginBottom="5dp"
+            android:textColor="@color/teal_700"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:id="@+id/adate"
+            android:textSize="15dp"
+            android:text="Due :"
+            android:layout_marginLeft="260dp"
+            android:layout_marginBottom="5dp"
+            android:textColor="@color/teal_700"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:id="@+id/atitle"
+            android:layout_height="wrap_content"
+            android:textSize="24dp"
+            android:textColor="#228B22"
+            android:layout_marginStart="10dp"
+            android:layout_gravity="left"
+            android:layout_marginTop="10dp"
+            android:text="Project Title"/>
+        <TextView
+            android:id="@+id/adesc"
+            android:layout_width="370dp"
+            android:textSize="18dp"
+            android:gravity="left"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="30dp"
+            android:layout_marginTop="45dp"
+            android:layout_gravity="left"
+            android:layout_marginStart="10dp"
+            android:text="Project Title"/>
+    </androidx.cardview.widget.CardView>
+
+</androidx.appcompat.widget.LinearLayoutCompat>

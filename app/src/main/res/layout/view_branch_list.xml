@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingVertical="2dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cardclick"
+        android:clickable="true"
+        android:foreground="?attr/selectableItemBackground"
+        android:layout_width="match_parent"
+        app:strokeWidth="1dp"
+        app:strokeColor="@color/black"
+        android:layout_height="wrap_content"
+        android:focusable="true">
+
+        <TextView
+            android:id="@+id/branch_id"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="10dp"
+            android:gravity="center"
+            android:layout_gravity="top"/>
+
+        <TextView
+            android:id="@+id/branch_description"
+            android:layout_width="390dp"
+            android:textSize="18sp"
+            android:gravity="left"
+            android:layout_marginStart="10dp"
+            android:layout_marginBottom="35dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="top"
+            android:layout_marginTop="50dp"
+            android:text="Project Title"
+            tools:ignore="RtlHardcoded" />
+
+        <TextView
+            android:id="@+id/branch_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="left"
+            android:layout_gravity="left"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:text="Project Title"
+            android:textColor="#228B22"
+            android:textSize="24sp"
+            tools:ignore="RtlHardcoded" />
+
+        <TextView
+            android:id="@+id/branch_code"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:layout_gravity="bottom"
+            android:layout_marginBottom="5dp"
+            android:text="code"
+            android:layout_marginStart="270dp"
+            android:textColor="#228B22"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView10"
+            android:layout_gravity="bottom"
+            android:layout_marginBottom="5dp"
+            android:textSize="15sp"
+            android:text="Code :"
+            android:layout_marginStart="220dp"/>
+
+    </androidx.cardview.widget.CardView>
+</androidx.appcompat.widget.LinearLayoutCompat>
